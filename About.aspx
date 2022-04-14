@@ -203,7 +203,7 @@
                 <ul class="timeline timeline-split">
                     <li class="timeline-item">
                         <div class="timeline-info">
-                            <span>Apr 2022 - Present</span>
+                            <span>Apr 2020 - Present</span>
                         </div>
                         <div class="timeline-marker"></div>
                         <div class="timeline-content">

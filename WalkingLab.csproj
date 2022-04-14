@@ -130,6 +130,18 @@
     <Content Include="Default.aspx" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
+    <Content Include="images\about.jpg" />
+    <Content Include="images\arrow-left.png" />
+    <Content Include="images\arrow-right.png" />
+    <Content Include="images\banner.jpg" />
+    <Content Include="images\bike-unsplash.jpg" />
+    <Content Include="images\facebook.png" />
+    <Content Include="images\github.png" />
+    <Content Include="images\instagram.png" />
+    <Content Include="images\linkedin.png" />
+    <Content Include="images\location_black.png" />
+    <Content Include="images\mail.png" />
+    <Content Include="images\search.png" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.esm.js" />
@@ -168,6 +180,7 @@
     <Content Include="Content\bootstrap-grid.min.css.map" />
     <Content Include="Content\bootstrap-grid.css.map" />
     <Content Include="Resume.pdf" />
+    <None Include="Properties\PublishProfiles\FTPProfile.pubxml" />
     <None Include="Scripts\jquery-3.6.0.intellisense.js" />
     <Content Include="js\kendo.all.min.js" />
     <Content Include="Scripts\jquery-3.6.0.js" />
